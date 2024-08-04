@@ -16,3 +16,7 @@ spring:
 
 jwt:
   signerKey: "b3dud2Vha3Blcm1pbmRwb3NzaWJseXJ1bm5pbmdmYXJ0aGVycHJldmVudHZvd2VsYmU="
+
+app:
+  services:
+    profile: http://localhost:8091/profile
